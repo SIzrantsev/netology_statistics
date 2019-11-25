@@ -19,3 +19,7 @@
 *  Применение модели для предсказания временных данных: Prophet
 *  Оценка предсказаний модели для временного ряда
 
+
+[Презентация 1](https://github.com/yustinaivanova/netology_statistics/blob/master/presentation1.pdf) - лекционный материал (код)
+[Лекция 1](https://github.com/yustinaivanova/netology_statistics/blob/master/lecture_1.ipynb) - лекционный материал (код)
+[Домашнее задание 1](https://github.com/yustinaivanova/netology_statistics/blob/master/dz_1.ipynb) - домашнее задание
