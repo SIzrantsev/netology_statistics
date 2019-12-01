@@ -56,3 +56,29 @@
 *  [Презентация 2](https://github.com/yustinaivanova/netology_statistics/blob/master/presentation2.pdf) - лекционный материал (презентация)
 *  [Лекция 2](https://github.com/yustinaivanova/netology_statistics/blob/master/lecture_2.ipynb) - лекционный материал (код)
 *  [Домашнее задание 2](https://github.com/yustinaivanova/netology_statistics/blob/master/dz_2.ipynb) - домашнее задание
+
+### Лекция 3
+
+*  Линейная регрессия
+*  Полиномиальная регрессия
+*  Логистическая регрессия
+*  Сигмоида
+*  Функция ошибки в модели логистической регрессии
+*  Градиентный спуск
+*  Кросс-валидация
+*  Статистические гипотезы о данных
+*  Ошибка первого и второго рода
+*  Статистическая значимость - p-value
+*  t-value
+*  A/B тестирование
+*  Параметрическая-непараметрическая гипотеза
+*  Проверка гипотезы методом Стьюдента
+*  Проверка гипотезы методом Фишера
+*  Проверка гипотезы методом Манна-Уитни
+
+
+### Материалы:
+
+*  [Презентация 3](https://github.com/yustinaivanova/netology_statistics/blob/master/presentation3.pdf) - лекционный материал (презентация)
+*  [Лекция 3](https://github.com/yustinaivanova/netology_statistics/blob/master/lecture_3.ipynb) - лекционный материал (код)
+*  [Домашнее задание 3](https://github.com/yustinaivanova/netology_statistics/blob/master/dz_3.ipynb) - домашнее задание
