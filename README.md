@@ -25,3 +25,34 @@
 *  [Презентация 1](https://github.com/yustinaivanova/netology_statistics/blob/master/presentation1.pdf) - лекционный материал (презентация)
 *  [Лекция 1](https://github.com/yustinaivanova/netology_statistics/blob/master/lecture_1.ipynb) - лекционный материал (код)
 *  [Домашнее задание 1](https://github.com/yustinaivanova/netology_statistics/blob/master/dz_1.ipynb) - домашнее задание
+
+
+### Лекция 2
+
+*  Корреляция
+*  Коэффициент корреляции Пирсона
+*  Линейная регрессия
+*  Функция потерь
+*  Матрицы ковариаций и корреляций
+*  Геометрический смысл матрицы ковариаций
+*  Геометрический смысл собственных векторов
+*  Правило трех сигм
+*  Виды распределений
+*  Центральная предельная теорема
+*  Доверительный интервал
+*  Дискретные и непрерывные распределения
+*  Дискретное равномерное распределение
+*  Математическое ожидание дискретной случайной величины
+*  Геометрическое распределение
+*  Логнормальное распределение
+*  Экспоненциальное распределение
+*  Распределение Бернулли
+*  Биноминальное распределение
+*  распределение Стьюдента
+
+
+### Материалы:
+
+*  [Презентация 2](https://github.com/yustinaivanova/netology_statistics/blob/master/presentation2.pdf) - лекционный материал (презентация)
+*  [Лекция 2](https://github.com/yustinaivanova/netology_statistics/blob/master/lecture_2.ipynb) - лекционный материал (код)
+*  [Домашнее задание 2](https://github.com/yustinaivanova/netology_statistics/blob/master/dz_2.ipynb) - домашнее задание
