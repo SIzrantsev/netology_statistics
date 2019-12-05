@@ -82,3 +82,24 @@
 *  [Презентация 3](https://github.com/yustinaivanova/netology_statistics/blob/master/presentation3.pdf) - лекционный материал (презентация)
 *  [Лекция 3](https://github.com/yustinaivanova/netology_statistics/blob/master/lecture_3.ipynb) - лекционный материал (код)
 *  [Домашнее задание 3](https://github.com/yustinaivanova/netology_statistics/blob/master/dz_3.ipynb) - домашнее задание
+
+
+### Лекция 4
+
+*  Задача классификации
+*  Проблема несбалансированности классов - как бороться?
+*  Пример решения классификационной проблемы - RandomForest
+*  Метрики классификации (precision, recall)
+*  Принцип минимальных компонент, PCA
+*  Кросс-валидация
+*  ROC-кривая
+*  Регрессия
+*  LSTM - модель рекурентной нейросети для предсказания временного ряда
+
+
+
+### Материалы:
+
+*  [Презентация 4](https://github.com/yustinaivanova/netology_statistics/blob/master/presentation4.pdf) - лекционный материал (презентация)
+*  [Лекция 4](https://github.com/yustinaivanova/netology_statistics/blob/master/lecture_4.ipynb) - лекционный материал (код)
+*  [Домашнее задание 4](https://github.com/yustinaivanova/netology_statistics/blob/master/dz_4.ipynb) - домашнее задание
