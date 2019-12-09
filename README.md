@@ -103,3 +103,18 @@
 *  [Презентация 4](https://github.com/yustinaivanova/netology_statistics/blob/master/presentation4.pdf) - лекционный материал (презентация)
 *  [Лекция 4](https://github.com/yustinaivanova/netology_statistics/blob/master/lecture_4.ipynb) - лекционный материал (код)
 *  [Домашнее задание 4](https://github.com/yustinaivanova/netology_statistics/blob/master/dz_4.ipynb) - домашнее задание
+
+### Лекция 5
+
+*  Обработка текста - bag-of-words
+*  Классификация по тексту - является ли данное предложение СПАМом или нет?
+*  Теорема Баеса
+*  Анализ временного ряда
+*  Кластеризация
+
+
+
+### Материалы:
+
+*  [Презентация 5](https://github.com/yustinaivanova/netology_statistics/blob/master/presentation5.pdf) - лекционный материал (презентация)
+*  [Лекция 5](https://github.com/yustinaivanova/netology_statistics/blob/master/lecture_5.ipynb) - лекционный материал (код)
